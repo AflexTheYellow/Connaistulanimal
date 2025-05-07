@@ -228,7 +228,7 @@ body {
 }
 
 .elemenu{
-    color:#87c8c0;
+    color:#cca002;
     padding: 10px;
     font-weight: 600;
     font-family: "Work Sans";
@@ -361,8 +361,8 @@ a{
 
 }
 .btnpc:hover{
-    background-color: #599790;
-    color: #ffffff;
+    background-color: #cca002;
+    color:#cca002;
     transition: .2s;
     
 }
